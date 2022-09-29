@@ -7,7 +7,7 @@ I'm **Angga Nugraha**. 😊
 🌱 I'm currently participating  in Pengembang Aplikasi Android dan Multi-Platform activities in Dicoding 
 through the Independent Study program batch 3 by the Kampus Merdeka
 
-💬 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/angga-nugraha-126bb8152/)ku ya.
+💬 If you are interested in getting to know me, please follow the account my [Linkedin](https://www.linkedin.com/in/angga-nugraha-126bb8152/).
 
 ### Github Statistic
 <p align="left">
