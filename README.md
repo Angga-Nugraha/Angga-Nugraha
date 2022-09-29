@@ -1,17 +1,22 @@
-# Halo semua! 
+## Hi All! 👋
+I'm **Angga Nugraha**. 😊
 
-Perkenalkan nama saya **Angga Nugraha**.
+## About Me:
+🎓 I'm a **College Student** in ARS University Bandung...
 
-Saya seorang mahasiswa semester 5 di [Universitas ARS](https://ars.ac.id/) jurusan Teknik Informatika.
+🌱 I'm currently participating  in Pengembang Aplikasi Android dan Multi-Platform activities in Dicoding 
+through the Independent Study program batch 3 by the Kampus Merdeka
 
-Saya tertarik dalam bidang Artifcial Intelligent (Machine Learning, Deep Learning, etc).
-
-Saya juga tertarik untuk menjadi pengembang Mobile Development.
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/angga-nugraha-126bb8152/)ku ya.
+💬 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/angga-nugraha-126bb8152/)ku ya.
 
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/dimasmds"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angga-nugraha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angga-nugraha&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## Tech Stack:
+<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
