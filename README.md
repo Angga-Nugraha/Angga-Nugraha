@@ -4,7 +4,7 @@ I'm **Angga Nugraha**. 😊
 ## About Me:
 🎓 I'm a **College Student** in ARS University Bandung...
 
-🌱 I'm currently participating  in Pengembang Aplikasi Android dan Multi-Platform activities in Dicoding 
+🌱 I'm currently participating  in Pengembang Aplikasi Multi-Platform and Back-End activities in Dicoding 
 through the Independent Study program batch 3 by the Kampus Merdeka
 
 💬 If you are interested in getting to know me, please follow the account my [Linkedin](https://www.linkedin.com/in/angga-nugraha-126bb8152/).
