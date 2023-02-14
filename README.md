@@ -2,7 +2,7 @@
 I'm **Angga Nugraha**. 😊
 
 ## About Me:
-🎓 I'm a **College Student** in ARS University Bandung...
+🎓 I'm a **College Student** in Universitas Adhirajasa Reswara Sanjaya Bandung...
 
 🌱 I'm currently participating  in Pengembang Aplikasi Multi-Platform and Back-End activities in Dicoding 
 through the Independent Study program batch 3 by the Kampus Merdeka
