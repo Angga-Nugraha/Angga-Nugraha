@@ -4,8 +4,7 @@ I'm **Angga Nugraha**. 😊
 ## About Me:
 🎓 I'm a **College Student** in Universitas Adhirajasa Reswara Sanjaya Bandung...
 
-🌱 I'm currently participating  in Pengembang Aplikasi Multi-Platform and Back-End activities in Dicoding 
-through the Independent Study program batch 3 by the Kampus Merdeka
+🎓 I am a graduate of the Batch 3 MSIB program from Dicoding Academy x Kampus Merdeka, with a Multi-platform and Back-end Programming.
 
 💬 If you are interested in getting to know me, lets connect to my [Linkedin](https://www.linkedin.com/in/angga-nugraha-126bb8152/).
 
