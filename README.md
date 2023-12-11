@@ -22,4 +22,4 @@ I'm **Angga Nugraha**. 😊
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=E6B400)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=E47200)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=E47200)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-05122A?style=flat&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-05122A?style=flat&logo=node.js&logoColor=green)
