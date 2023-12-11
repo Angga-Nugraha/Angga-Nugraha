@@ -2,7 +2,7 @@
 I'm **Angga Nugraha**. 😊
 
 ## About Me:
-🎓 I'm a **College Student** in Universitas Adhirajasa Reswara Sanjaya Bandung...
+🎓 I'm a **College Student** in Universitas Adhirajasa Reswara Sanjaya,
 
 🎓 I am a graduate of the Batch 3 MSIB program from Dicoding Academy x Kampus Merdeka, with a Multi-platform and Back-end Programming.
 
@@ -21,3 +21,4 @@ I'm **Angga Nugraha**. 😊
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=E6B400)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=E47200)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=E47200)&nbsp;
