@@ -5,7 +5,7 @@ I'm **Angga Nugraha**. 😊
 
 🎓 I am a graduate of the Batch 3 MSIB program from Dicoding Academy x Kampus Merdeka, with Multi-platform and Back-end Programming.
 
-💬 If you are interested in getting to know me, let's connect to my [Linkedin](https://www.linkedin.com/in/angga-nugraha-126bb8152/).
+💬 If you are interested in getting to know me, let's connect to my [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angga-nugraha-126bb8152/).
 
 ### Github Statistic
 <p align="left">
